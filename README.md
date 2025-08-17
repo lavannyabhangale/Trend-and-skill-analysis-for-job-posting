@@ -1,4 +1,4 @@
-# 📊 Data Science Job Trends & Skill Analysis  
+# 📊Job Trends & Skill Analysis  
 
 ## 🔎 Project Overview  
 This project analyzes **real-world job postings** in the field of Data Science to uncover hiring trends and required skills.  
@@ -25,4 +25,4 @@ The aim is to help students and professionals understand the current job market 
 
 ---
 
-## 📂 Project Structure  
+
