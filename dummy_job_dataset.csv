@@ -1,0 +1,11 @@
+job_title,company,company_location,employee_residence,experience_level,employment_type,skills,industry,salary,salary_currency,remote_ratio,job_description
+Data Scientist,TechCorp,United States,United States,SE,FT,"Python, SQL, Machine Learning, Statistics",IT,120000,USD,100,Responsible for developing machine learning models and data analysis.
+Data Analyst,FinAnalytics,India,India,MI,FT,"Excel, SQL, Tableau, Power BI",Finance,800000,INR,50,Analyze financial data and create dashboards for business insights.
+Machine Learning Engineer,InnoTech,Germany,Germany,SE,FT,"Python, TensorFlow, PyTorch, NLP",IT,90000,EUR,100,Build and deploy machine learning pipelines.
+Business Intelligence Analyst,HealthData,Canada,Canada,MI,FT,"Power BI, SQL, Excel, Data Visualization",Healthcare,75000,CAD,0,Develop BI reports and dashboards for healthcare analytics.
+Data Engineer,CloudWorks,United States,United States,SE,FT,"Python, Spark, AWS, Airflow",IT,110000,USD,100,Build and maintain data pipelines on cloud platforms.
+AI Engineer,NextGenAI,India,India,MI,FT,"Python, NLP, Deep Learning, Azure",IT,1500000,INR,50,Work on AI-powered applications and NLP systems.
+Statistician,MediStats,United Kingdom,United Kingdom,EX,FT,"R, Statistics, Probability, Data Analysis",Healthcare,95000,GBP,0,Perform statistical modeling and hypothesis testing.
+Data Scientist,FinAnalytics,India,India,SE,FT,"Python, SQL, Machine Learning, Power BI",Finance,1300000,INR,50,Advanced analytics and predictive modeling for finance.
+Data Analyst,RetailInsights,United States,United States,EN,FT,"Excel, SQL, Tableau",Retail,65000,USD,0,Sales data analysis and visualization for retail trends.
+Machine Learning Engineer,TechCorp,United States,Canada,SE,FT,"Python, TensorFlow, PyTorch, NLP",IT,125000,USD,100,End-to-end ML model development and deployment.
